@@ -1,0 +1,9 @@
+<html>
+<head> Thank You </head>
+<body>
+
+<img height="1" width="1" src="https://www.facebook.com/tr?id=<?=$_COOKIE["pixel"]?>&ev=Lead&noscript=1"/>
+
+</body>
+
+</html>
